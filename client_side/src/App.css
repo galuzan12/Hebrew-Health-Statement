@@ -1,0 +1,47 @@
+* {
+  padding: 2px !important;
+  margin: 0px !important;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+  height: 100vh;
+}
+
+.headers * {
+  text-align: center;
+}
+
+.questions {
+  text-align: right;
+}
+
+.select {
+  text-align: center;
+}
+
+.date {
+  text-align: center;
+}
+
+.text * {
+  font-size: 80% !important;
+  text-align: right;
+}
+
+.degrees {
+  width: 20% !important;
+  margin: 0 1% !important;
+}
+
+.rowDeg {
+  font-size: 80% !important;
+  text-align: right;
+}
+
+body {
+  background-image: linear-gradient(to bottom, rgba(173, 173, 173, 0.74) 0%, rgba(170, 165, 165, 0.719) 100%), url('/back.jpeg');
+}
